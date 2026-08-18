@@ -1,1 +1,5 @@
-
+[
+  { "appname": "Browser",
+    "icon": "icon.png",
+    "download" : "a.allayosapp" }
+]
