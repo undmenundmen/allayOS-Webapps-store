@@ -1,5 +1,5 @@
 [
   { "appname": "Browser",
-    "icon": "icon.png",
+    "icon": "https://raw.githubusercontent.com/undmenundmen/allayOS-Webapps-store/refs/heads/main/icons/icon1.png",
     "download" : "a.allayosapp" }
 ]
