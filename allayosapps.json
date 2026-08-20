@@ -19,5 +19,18 @@
     "screenshot1": "https://raw.githubusercontent.com/undmenundmen/allayOS-Webapps-store/refs/heads/main/screenshot/google/Screenshot_20260820-115824.png",
     "icon": "https://raw.githubusercontent.com/undmenundmen/allayOS-Webapps-store/refs/heads/main/icons/icon2.png",
     "download" : "https://raw.githubusercontent.com/undmenundmen/allayOS-Webapps-store/refs/heads/main/apps/google.allayosapp"
+  },
+  {
+    "appname": "Snake",
+    "appid" : "snake",
+    "editor": "no",
+    "user": "Allay technology",
+    "description": "i can play snake required allayos 5.1"
+    "minAllayOSVersion": "5.1",
+    "screenshot1": "https://raw.githubusercontent.com/undmenundmen/allayOS-Webapps-store/refs/heads/main/screenshot/snake/Screenshot_20260820-130004.png",
+    "screenshot2": "https://raw.githubusercontent.com/undmenundmen/allayOS-Webapps-store/refs/heads/main/screenshot/snake/Screenshot_20260820-130007.png",
+    "screenshot3": "https://raw.githubusercontent.com/undmenundmen/allayOS-Webapps-store/refs/heads/main/screenshot/snake/Screenshot_20260820-130021.png",
+    "icon": "https://raw.githubusercontent.com/undmenundmen/allayOS-Webapps-store/refs/heads/main/icons/icon3.png",
+    "download" : "https://raw.githubusercontent.com/undmenundmen/allayOS-Webapps-store/refs/heads/main/apps/snake.allayosapp"
   }
 ]
