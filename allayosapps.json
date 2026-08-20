@@ -67,5 +67,16 @@
     "screenshot2": "https://raw.githubusercontent.com/undmenundmen/allayOS-Webapps-store/refs/heads/main/screenshot/rollingball/Screenshot_20260820-141546.png",
     "icon": "https://raw.githubusercontent.com/undmenundmen/allayOS-Webapps-store/refs/heads/main/icons/icon6.png",
     "download" : "https://raw.githubusercontent.com/undmenundmen/allayOS-Webapps-store/refs/heads/main/apps/rollingball.allayosapp"
+  },
+  {
+    "appname": "Hopmania",
+    "appid" : "hopmania",
+    "editor": "true",
+    "user": "Google",
+    "minAllayOSVersion": "5.1",
+    "screenshot1": "https://raw.githubusercontent.com/undmenundmen/allayOS-Webapps-store/refs/heads/main/screenshot/screenshot/hopmania/Screenshot_20260820-142824.png",
+    "screenshot2": "https://raw.githubusercontent.com/undmenundmen/allayOS-Webapps-store/refs/heads/main/screenshot/screenshot/hopmania/Screenshot_20260820-142844.png",
+    "icon": "https://raw.githubusercontent.com/undmenundmen/allayOS-Webapps-store/refs/heads/main/icons/icon7.png",
+    "download" : "https://raw.githubusercontent.com/undmenundmen/allayOS-Webapps-store/refs/heads/main/apps/hopmania.allayosapp"
   }
 ]
