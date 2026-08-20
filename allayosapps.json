@@ -44,5 +44,17 @@
     "screenshot2": "https://raw.githubusercontent.com/undmenundmen/allayOS-Webapps-store/refs/heads/main/screenshot/tiktaktoe/Screenshot_20260820-134848.png",
     "icon": "https://raw.githubusercontent.com/undmenundmen/allayOS-Webapps-store/refs/heads/main/icons/icon4.png",
     "download" : "https://raw.githubusercontent.com/undmenundmen/allayOS-Webapps-store/refs/heads/main/apps/tiktaktoe.allayosapp"
+  },
+  {
+    "appname": "YouTube",
+    "appid" : "youtube",
+    "editor": "no",
+    "user": "Google",
+    "description": "youtube can watch videos, shorts and more.",
+    "minAllayOSVersion": "5.0",
+    "screenshot1": "https://raw.githubusercontent.com/undmenundmen/allayOS-Webapps-store/refs/heads/main/screenshot/youtube/Screenshot_20260820-140418.png",
+    "screenshot2": "https://raw.githubusercontent.com/undmenundmen/allayOS-Webapps-store/refs/heads/main/screenshot/youtube/Screenshot_20260820-140439.png",
+    "icon": "https://raw.githubusercontent.com/undmenundmen/allayOS-Webapps-store/refs/heads/main/icons/icon5.png",
+    "download" : "https://raw.githubusercontent.com/undmenundmen/allayOS-Webapps-store/refs/heads/main/apps/youtube.allayosapp"
   }
 ]
