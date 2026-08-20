@@ -13,7 +13,7 @@
   {
     "appname": "Google",
     "appid" : "google",
-    "editor": "true",
+    "editor": "no",
     "user": "Google",
     "minAllayOSVersion": "5.0",
     "screenshot1": "https://raw.githubusercontent.com/undmenundmen/allayOS-Webapps-store/refs/heads/main/screenshot/google/Screenshot_20260820-115824.png",
