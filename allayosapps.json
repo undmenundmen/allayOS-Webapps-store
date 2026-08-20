@@ -56,5 +56,16 @@
     "screenshot2": "https://raw.githubusercontent.com/undmenundmen/allayOS-Webapps-store/refs/heads/main/screenshot/youtube/Screenshot_20260820-140439.png",
     "icon": "https://raw.githubusercontent.com/undmenundmen/allayOS-Webapps-store/refs/heads/main/icons/icon5.png",
     "download" : "https://raw.githubusercontent.com/undmenundmen/allayOS-Webapps-store/refs/heads/main/apps/youtube.allayosapp"
+  },
+  {
+    "appname": "Rollingball",
+    "appid" : "rollingball",
+    "editor": "true",
+    "user": "Allay technology",
+    "minAllayOSVersion": "5.1",
+    "screenshot1": "https://raw.githubusercontent.com/undmenundmen/allayOS-Webapps-store/refs/heads/main/screenshot/rollingball/Screenshot_20260820-141539.png",
+    "screenshot2": "https://raw.githubusercontent.com/undmenundmen/allayOS-Webapps-store/refs/heads/main/screenshot/rollingball/Screenshot_20260820-141546.png",
+    "icon": "https://raw.githubusercontent.com/undmenundmen/allayOS-Webapps-store/refs/heads/main/icons/icon6.png",
+    "download" : "https://raw.githubusercontent.com/undmenundmen/allayOS-Webapps-store/refs/heads/main/apps/rollingball.allayosapp"
   }
 ]
