@@ -32,5 +32,17 @@
     "screenshot3": "https://raw.githubusercontent.com/undmenundmen/allayOS-Webapps-store/refs/heads/main/screenshot/snake/Screenshot_20260820-130021.png",
     "icon": "https://raw.githubusercontent.com/undmenundmen/allayOS-Webapps-store/refs/heads/main/icons/icon3.png",
     "download" : "https://raw.githubusercontent.com/undmenundmen/allayOS-Webapps-store/refs/heads/main/apps/snake.allayosapp"
+  },
+  {
+    "appname": "Tic Tac Toe",
+    "appid" : "tiktaktoe",
+    "editor": "true",
+    "user": "Allay technology",
+    "description": "tik tak toe can be work as well supports allayos 5.1",
+    "minAllayOSVersion": "5.1",
+    "screenshot1": "https://raw.githubusercontent.com/undmenundmen/allayOS-Webapps-store/refs/heads/main/screenshot/tiktaktoe/Screenshot_20260820-134855.png",
+    "screenshot2": "https://raw.githubusercontent.com/undmenundmen/allayOS-Webapps-store/refs/heads/main/screenshot/tiktaktoe/Screenshot_20260820-134848.png",
+    "icon": "https://raw.githubusercontent.com/undmenundmen/allayOS-Webapps-store/refs/heads/main/icons/icon4.png",
+    "download" : "https://raw.githubusercontent.com/undmenundmen/allayOS-Webapps-store/refs/heads/main/apps/tiktaktoe.allayosapp"
   }
 ]
