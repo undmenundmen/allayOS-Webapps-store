@@ -25,7 +25,7 @@
     "appid" : "snake",
     "editor": "no",
     "user": "Allay technology",
-    "description": "i can play snake required allayos 5.1"
+    "description": "i can play snake required allayos 5.1",
     "minAllayOSVersion": "5.1",
     "screenshot1": "https://raw.githubusercontent.com/undmenundmen/allayOS-Webapps-store/refs/heads/main/screenshot/snake/Screenshot_20260820-130004.png",
     "screenshot2": "https://raw.githubusercontent.com/undmenundmen/allayOS-Webapps-store/refs/heads/main/screenshot/snake/Screenshot_20260820-130007.png",
