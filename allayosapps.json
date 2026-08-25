@@ -78,5 +78,15 @@
     "screenshot2": "https://raw.githubusercontent.com/undmenundmen/allayOS-Webapps-store/refs/heads/main/screenshot/hopmania/Screenshot_20260820-142844.png",
     "icon": "https://raw.githubusercontent.com/undmenundmen/allayOS-Webapps-store/refs/heads/main/icons/icon7.png",
     "download" : "https://raw.githubusercontent.com/undmenundmen/allayOS-Webapps-store/refs/heads/main/apps/hopmania.allayosapp"
+  },
+{
+    "appname": "Calendar",
+    "appid" : "calendar",
+    "editor": "no",
+    "user": "Allay technology",
+    "minAllayOSVersion": "5.0",
+    "screenshot1": "https://raw.githubusercontent.com/undmenundmen/allayOS-Webapps-store/refs/heads/main/screenshot/calendar/Screenshot_20260825-145832.png",
+    "icon": "https://raw.githubusercontent.com/undmenundmen/allayOS-Webapps-store/refs/heads/main/icons/icon8.png",
+    "download" : "https://raw.githubusercontent.com/undmenundmen/allayOS-Webapps-store/refs/heads/main/apps/calendar.allayosapp"
   }
 ]
