@@ -88,5 +88,16 @@
     "screenshot1": "https://raw.githubusercontent.com/undmenundmen/allayOS-Webapps-store/refs/heads/main/screenshot/calendar/Screenshot_20260825-145832.png",
     "icon": "https://raw.githubusercontent.com/undmenundmen/allayOS-Webapps-store/refs/heads/main/icons/icon8.png",
     "download" : "https://raw.githubusercontent.com/undmenundmen/allayOS-Webapps-store/refs/heads/main/apps/calendar.allayosapp"
+  },
+{
+    "appname": "Minecraft 2D",
+    "appid" : "mc2d",
+    "editor": "true",
+    "user": "Ariel Moise",
+    "minAllayOSVersion": "5.1",
+    "screenshot1": "https://raw.githubusercontent.com/undmenundmen/allayOS-Webapps-store/refs/heads/main/screenshot/mc2d/Screenshot_20260825-151010.png",
+    "screenshot2": "https://raw.githubusercontent.com/undmenundmen/allayOS-Webapps-store/refs/heads/main/screenshot/mc2d/Screenshot_20260825-151015.png",
+    "icon": "https://raw.githubusercontent.com/undmenundmen/allayOS-Webapps-store/refs/heads/main/icons/icon9.png",
+    "download" : "https://raw.githubusercontent.com/undmenundmen/allayOS-Webapps-store/refs/heads/main/apps/mc2d.allayosapp"
   }
 ]
